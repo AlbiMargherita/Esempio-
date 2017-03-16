@@ -16,7 +16,7 @@ namespace prova
             this.scuola = scuola;
         }
 
-        public override string describe()
+        public override string describe()                     //eseguito l'override della funzione che descrive 
 
         {
             string output = "Nome: " + nome + "\r\n";
